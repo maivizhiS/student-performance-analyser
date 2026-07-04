@@ -1,6 +1,6 @@
 # 🎓 Student Academic Performance Analyser
 
-🔗 **Live Demo:** https://student-performance-analyser-472026.streamlit.app/
+🔗 **Live App:** https://student-performance-analyser-472026.streamlit.app/
 
 An interactive Streamlit dashboard for exploring and predicting student academic performance based on demographic and preparation factors.
 
