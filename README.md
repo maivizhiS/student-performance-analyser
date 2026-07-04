@@ -1,5 +1,7 @@
 # 🎓 Student Academic Performance Analyser
 
+🔗 **Live Demo:** https://student-performance-analyser-472026.streamlit.app/
+
 An interactive Streamlit dashboard for exploring and predicting student academic performance based on demographic and preparation factors.
 
 ## Features
@@ -36,6 +38,3 @@ streamlit run app.py
 
 ## Dataset
 The dataset (`StudentsPerformance.csv`) contains student scores in Math, Reading, and Writing along with demographic details such as gender, parental education level, family income level, and exam preparation status.
-
-## Live Demo
-🔗 https://student-performance-analyser-472026.streamlit.app/
